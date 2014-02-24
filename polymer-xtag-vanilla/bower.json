@@ -1,0 +1,17 @@
+{
+  "name": "introp-examples",
+  "version": "0.1.0",
+  "homepage": "https://github.com/x-tag/x-tag-imports",
+  "license": "MIT",
+  "dependencies": {
+    "x-tag-imports": "x-tag/x-tag-imports",
+    "polymer-ui-elements": "~0.2.0"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
