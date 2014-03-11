@@ -1,4 +1,4 @@
-introp-examples
+interop-examples
 ==============
 
 All things Web Components, playing nicely :)
@@ -8,7 +8,7 @@ All things Web Components, playing nicely :)
 1. Clone the project
 
 ```
-git clone https://github.com/x-tag/introp-examples.git
+git clone https://github.com/x-tag/interop-examples.git
 ```
 
 2. Navigate to example dir
